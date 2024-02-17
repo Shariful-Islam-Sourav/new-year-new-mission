@@ -46,7 +46,7 @@ main {
 .banner {
   width: 1320px;
   height: 600px;
-  background: url(Assets/images/Banner\ Image.png);
+  background: url(../Assets/images/Banner\ Image.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
@@ -95,7 +95,7 @@ main {
   width: 1320px;
   height: 600px;
   margin-bottom: 120px;
-  background: url(Assets/images/Vectorrr.png);
+  background: url(../Assets/images/Vectorrr.png);
   color: #fff;
   font-family: "Merriweather", serif;
 }
